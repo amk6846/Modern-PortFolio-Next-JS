@@ -57,3 +57,7 @@
     --accent: 
   }
 }
+
+html {
+  scroll-behavior: smooth;
+}

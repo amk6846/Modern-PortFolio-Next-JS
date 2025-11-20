@@ -47,11 +47,17 @@ const Hero = () => {
         </div>
 
         {/* Button Section */}
-        <div className="mt-8">
-          <a href="#about">
-            <Magicbutton title="Show My Work" />
-          </a>
-        </div>
+  <div className="mt-8">
+  <a
+    onClick={() => {
+      const aboutSection = document.getElementById("projects");
+      aboutSection?.scrollIntoView({ behavior: "smooth" });
+    }}
+  >
+    <Magicbutton title="Show My Work" />
+  </a>
+</div>
+
       </div>
     </main>
   );
