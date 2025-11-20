@@ -11,6 +11,7 @@ import Last from "./components/Last";
 export default function Home() {
   return (
     <main className="w-screen max-w-full overflow-x-hidden">
+      <title>Personal PortFolio</title>
       {/* Floting Navbar
       <FloatingNavbar /> */}
       {/* Section 1 */}

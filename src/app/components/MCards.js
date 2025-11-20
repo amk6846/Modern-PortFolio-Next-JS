@@ -15,9 +15,9 @@ const testimonials = [
     title: Array(5).fill(<FaStar className="text-yellow-500 mx-0.5 inline" />), // Display stars in a single line with yellow color
   },
   {
-    name: "Javascript + Html + Css",
+    name: "React + Python",
     quote:
-      "Abdul Majid shows exceptional talent in HTML, CSS, and JavaScript, creating visually appealing and highly functional web designs. His meticulous attention to detail and ability to bring designs to life with clean, efficient code is impressive. Abdul's skill set ensures a polished and professional end result in every project",
+      "Developed a full-stack application using React for the frontend and Python for the backend, enabling seamless user interaction and efficient server-side processing.",
     title: Array(5).fill(<FaStar className="text-yellow-500 mx-0.5 inline" />), // Display stars in a single line with yellow color
   },
 ];

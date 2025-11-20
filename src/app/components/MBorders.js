@@ -11,21 +11,21 @@ const workExperience = [
   },
   {
     id: 2,
-    title: "Python Developer",
-    desc: "I am a Python developer with a strong focus on creating efficient and scalable solutions. My expertise lies in writing clean, maintainable code for diverse applications.",
+    title: "React Developer",
+    desc: "A React.js developer with hands-on experience in building modern, responsive, and high-performance web applications.",
     thumbnail: "./images/3.png",
   },
   {
     id: 3,
-    title: "Mongo Db Developer",
-    desc: "I am a MongoDB developer specializing in building and optimizing scalable database solutions. I excel in managing complex data structures and ensuring high-performance queries.",
-    thumbnail: "./images/2.png",
+    title: "Python Developer",
+    desc: "I am a React developer with a strong focus on creating efficient and scalable solutions. My expertise lies in writing clean, maintainable code for diverse applications.",
+    thumbnail: "./images/4.png",
   },
   {
     id: 4,
-    title: "Html,Css and their Frameworks",
-    desc: "An HTML/CSS developer designs and styles responsive web pages using HTML and CSS, along with their frameworks, to create visually appealing and user-friendly interfaces.",
-    thumbnail: "./images/4.png",
+    title: "Mongo Db Developer",
+    desc: "I am a MongoDB developer specializing in building and optimizing scalable database solutions. I excel in managing complex data structures and ensuring high-performance queries.",
+    thumbnail: "./images/2.png",
   },
   // Add more items as needed
 ];

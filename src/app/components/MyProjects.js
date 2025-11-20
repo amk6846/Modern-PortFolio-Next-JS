@@ -12,11 +12,11 @@ const MyProjects = () => {
           My <span className="text-purple-400">recent projects</span>
         </h1>
 
-        <div className="flex flex-wrap justify-center p-4">
+        <div className="flex flex-wrap w-full m-auto ">
           <Card
-            img="imh"
-            head="AT-T-Website-Clone"
-            para="This project is a comprehensive web page for AT&T Company USA, featuring an interactive navigation menu, promotional content, and detailed sections on various services like wireless plans, internet, TV, and phones, aimed at enhancing user experience and engagement."
+            img="bone1"
+            head="Mri-BoneCare Ai Powered Diagnosis"
+            para="Developed an AI-powered MRI Bone Care system that automatically detects, segments, and classifies primary bone tumors from MRI scans using a multi-task deep learning framework. The system provides visual results, tumor boundaries, diagnostic insights, and a user-friendly web interface for doctors and patients."
             className="w-full sm:w-[45%] md:w-[30%] lg:w-[22%] p-2"
           />
 
